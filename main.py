@@ -18,4 +18,6 @@ for BUZZgame in range(1, 102):
      elif BUZZgame % 5 == 0:
          print("Buzz")
      else:
-        print(BUZZgame)á
+        print(BUZZgame)
+
+        print
