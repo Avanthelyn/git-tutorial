@@ -30,7 +30,7 @@
 # print(f"Minimalna temperatura: {temp_min}°F")
 # print(f"Ciśnienie atmosferyczne: {pressure} hPa")
 # print(f"Temp odczuwalna):{feels_like}°F")
-# print(f"Wiatr):{wind_speed}km/h")
+# print(f"Wiatr):{wind_speed}km/h")á
 # print(f"description: {description}")
 # print(f"Longitude: {longitude}")
 # print(f"Name: {name}")

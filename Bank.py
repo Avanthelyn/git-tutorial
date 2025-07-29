@@ -27,7 +27,7 @@ def withdraw_money():
             print("Błąd: Nie masz tyle środków.")
     except ValueError:
         print("Błąd: Podaj poprawną kwotę.")
-
+á
 def reset_balance():
     global account_bill
     account_bill = 0

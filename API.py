@@ -65,7 +65,7 @@ def all_countries():
 
         countries = []
 
-        for x in data[:5]:
+        for x in data[:5]:á
             country = {
                 "Nazwa": x.get("name").get("common"),
                 "Populacja": x.get("population"),

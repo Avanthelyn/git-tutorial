@@ -200,7 +200,7 @@ loty_dubai_warszawa = [lot for lot in loty if lot["kierunek"] == "Dubai" and lot
 print("\nLoty do Dubaju z Warszawy:", loty_dubai_warszawa)
 
 # 5. Policz wszystkich pasażerów
-suma_pasazerow = sum(lot["ilosc_pasażerów"] for lot in loty)
+suma_pasazerow = sum(lot["ilosc_pasażerów"] for loát in loty)
 print("\nŁączna liczba pasażerów:", suma_pasazerow)
 
 # 6. Dodaj do każdego lotu pole 'total' = liczba pasażerów * cena biletu
